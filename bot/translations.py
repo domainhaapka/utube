@@ -40,7 +40,7 @@ class Messages:
     NOT_A_VALID_MEDIA_MSG = "This is not a valid media"
 
     DAILY_QOUTA_REACHED = "Looks like you are trying to upload more than 6 videos today! By default youtube only "
-    "allows about 6 uploads daily, so this request might fail!!"
+    "allows about 18 uploads daily, so this request might fail!!"
 
     PROCESSING = "Processing....."
 
